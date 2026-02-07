@@ -1,12 +1,12 @@
 # 👋 你好，我是 Samera2022！
 
-一个 **菜鸟** 🐣，项目里总是有一些奇奇怪怪的想法。
+>一个 **菜鸟** 🐣，项目里总是有一些奇奇怪怪的想法。
 
 ---
 
 ### 🛠️ 我的作品 (Featured Project)
 
-**[MouseMacros](https://github.com/Samera2022/MouseMacros)** 这是一个已经相对成熟的工具，旨在通过宏定义解放你的双手。你也可以在以下平台找到它：
+*    **[MouseMacros](https://github.com/Samera2022/MouseMacros)**:  这是一个已经相对成熟的工具，旨在通过宏定义解放你的双手。你也可以在以下平台（直接点击对应图片）找到它：
 
 <div align="center">
 
@@ -33,14 +33,14 @@
 - ⚙️ **正在维护**：一些让生活更简单的（或者更复杂的）小工具。
 - 🌱 **正在学习**：从菜菜鸟变为菜鸟🐣。
 
+<div align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Samera2022&show_icons=true&theme=transparent" alt="Samera2022's GitHub stats" />
+</div>
+
 ---
 
 ### 📬 找到我
 
-<p align="left">
-  <a href="https://samera2022.github.io"><img src="https://img.shields.io/badge/Blog-samera2022.github.io-blue?style=flat-square&logo=read-the-docs&logoColor=white" /></a>
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Samera2022&show_icons=true&theme=transparent" alt="Samera2022's GitHub stats" />
+  <a href="https://samera2022.github.io"><img src="https://img.shields.io/badge/Blog-samera2022.github.io-blue?style=flat-square&logo=read-the-docs&logoColor=white" /></a>
 </p>
