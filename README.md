@@ -10,9 +10,10 @@
 
 <div align="center">
 
-[![AlternativeTo](https://img.shields.io/badge/AlternativeTo-195190?style=flat&logo=alternativeto&logoColor=white)](https://alternativeto.net/software/mousemacros/about/) | [![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-0078D4?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDZ2MTNoMTZWNkg0bTE0IDEzSDRWNmgxNHYxM20tMS0xMUg3djhoMTBWOHoiLz48L3N2Zz4=)](https://apps.microsoft.com/detail/9mx3kfbkmn1h) | [![SourceForge](https://img.shields.io/badge/SourceForge-EE7020?style=flat&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/mousemacros/) | [![Softpedia](https://img.shields.io/badge/Softpedia-0460A7?style=flat&logo=appveyor&logoColor=white)](https://www.softpedia.com/get/System/OS-Enhancements/MouseMacros.shtml)
+[![AlternativeTo](https://img.shields.io/badge/AlternativeTo-195190?style=flat&logo=alternativeto&logoColor=white)](https://alternativeto.net/software/mousemacros/about/) | [![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-0078D4?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDZ2MTNoMTZWNkg0bTE0IDEzSDRWNmgxNHYxM20tMS0xMUg3djhoMTBWOHoiLz48L3N2Zz4=)](https://apps.microsoft.com/detail/9mx3kfbkmn1h) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Samera/MouseMacros) | [![SourceForge](https://img.shields.io/badge/SourceForge-EE7020?style=flat&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/mousemacros/) | [![Softpedia](https://img.shields.io/badge/Softpedia-0460A7?style=flat&logo=appveyor&logoColor=white)](https://www.softpedia.com/get/System/OS-Enhancements/MouseMacros.shtml)
 
 </div>
+
 
 ### 🧪 奇思妙想 (Experimental)
 
