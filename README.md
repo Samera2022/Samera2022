@@ -45,3 +45,9 @@
 <p align="center">
   <a href="https://samera2022.github.io"><img src="https://img.shields.io/badge/Blog-samera2022.github.io-blue?style=flat-square&logo=read-the-docs&logoColor=white" /></a>
 </p>
+
+---
+
+### 赞助
+
+目前入驻爱发电，您可以点击[此处](https://afdian.com/a/Samera2022)帮我买一杯快乐水~
